@@ -1,3 +1,5 @@
-# COMP0011 Notes: Introductory Mathematics for Computer Science
+<h1 align="center">Introductory Mathematics for Computer Science</h1>
 
-Notes for the module COMP0011 - Introductory Mathematics for Computer Science.
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notes-COMP0011-blue">
+</div>
